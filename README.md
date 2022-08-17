@@ -3,8 +3,12 @@
 
 <div align="center">
   <a href="https://github.com/tqscorreia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tqscorreia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqscorreia&layout=compact&langs_count=7&theme=dark"/>
+  
+  <ESTATISTICAS>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tqscorreia&theme=dark"/>
+  
+  <TOP 10 LINGUAGENS>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqscorreia&layout=compact&theme=dark"/>
 
 
 <h3 align="left">Languages and Tools:</h3>

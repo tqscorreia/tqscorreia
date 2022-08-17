@@ -7,7 +7,7 @@
   <ESTATISTICAS>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tqscorreia&theme=dark"/>
   
-  <TOP 10 LINGUAGENS>
+  <TOP5>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqscorreia&layout=compact&theme=dark"/>
 
 

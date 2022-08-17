@@ -1,6 +1,12 @@
 
 ## Hello World, I'm Telmo! 🌍
 
+<div align="center">
+  <a href="https://github.com/tqscorreia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tqscorreia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqscorreia&layout=compact&langs_count=7&theme=dark"/>
+
+<div>
 I'm Telmo Correia, a portuguese student in the last year of Informatics Engineer at University of Coimbra 👨‍🎓.
 
 
